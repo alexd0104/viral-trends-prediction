@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+dataset/
+
+# Fichiers temporaires
+*.pyc
+*.log
+*.csv
+*.pkl
+
+
+# Jupyter hidden
+*.nbconvert.ipynb
